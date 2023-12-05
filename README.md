@@ -3,17 +3,25 @@
 YT Bookmarker is a Chrome extension that enhances the experience of watching YouTube videos by allowing users to create and manage bookmarks with custom notes at specific timestamps in YouTube videos.
 
 You can find the [published extension in the Chrome Web Store](https://chrome.google.com/webstore/detail/yt-bookmarker/docgcaajjlhikhllnlkfmffciiokggag/related) for installation. It's free to use and only uses local browser storage. No sign-up necessary.
+## Steps
+![image](https://github.com/rajakhan017/Chrome-Extension-YT-Bookmaker/assets/135150598/20f7d785-e9e9-44fb-ad30-43e4fcc5cc97)
 
-![YT Bookmarker - No Screenshots](![image](https://github.com/rajakhan017/Chrome-Extension-YT-Bookmaker/assets/135150598/f9b8b80a-ca81-4ae2-92eb-ab9342b2d244)
-)
+
+![YT Bookmarker - No Screenshots]
+![image](https://github.com/rajakhan017/Chrome-Extension-YT-Bookmaker/assets/135150598/f9b8b80a-ca81-4ae2-92eb-ab9342b2d244)
+
 *No Bookmarks*
 
-![YT Bookmarker - With Screenshots](![image](https://github.com/rajakhan017/Chrome-Extension-YT-Bookmaker/assets/135150598/a7e32b60-cbcc-446f-8cf7-727d7ff72136)
-)
+![YT Bookmarker - With Screenshots]
+![image](https://github.com/rajakhan017/Chrome-Extension-YT-Bookmaker/assets/135150598/59c1473f-cb1b-480d-9e05-2266cc6b3b25)
+
+
+
 *With Bookmarks*
 
-![YT Bookmarker - Edit Screenshots](![image](https://github.com/rajakhan017/Chrome-Extension-YT-Bookmaker/assets/135150598/59c1473f-cb1b-480d-9e05-2266cc6b3b25)
-)
+![YT Bookmarker - Edit Screenshots]
+![image](https://github.com/rajakhan017/Chrome-Extension-YT-Bookmaker/assets/135150598/bd9e67b3-7ccf-469f-8f54-522d113c0c11)
+
 *Edit Bookmarks*
 
 
@@ -100,4 +108,5 @@ This project is open-source and available .
 
 ## Support
 
-If you have any questions or need help getting started, please open an issue in the repository or contact me on Twitter: @tanja_codes
+If you have any questions or need help getting started, please open an issue in the repository .
+connect me here.
