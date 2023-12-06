@@ -93,9 +93,9 @@ In this section, the main logic of the extension in the `popup.js` script is exp
 
 
 ## Contributing
-Contributions are always welcome! If you'd like to contribute to this project or have any suggestions, feel free to create a new issue or submit a pull request. Please check the [Code of Conduct](./CODE_OF_CONDUCT.md) first.
+Contributions are always welcome! If you'd like to contribute to this project or have any suggestions, feel free to create a new issue or submit a pull request. 
 
-To submit a pull request, follow these steps:
+## To submit a pull request, follow these steps:
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/your-feature-name`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
